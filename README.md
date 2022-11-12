@@ -1,1 +1,3 @@
-Brute force the compressed file to extract the password.
+"Fcrackzip" is used to pop a zip password.
+This project just simplified the "fcrackzip" process.
+Install "fcrackzip" before using the script.
