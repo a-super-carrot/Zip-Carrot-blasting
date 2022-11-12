@@ -1,7 +1,1 @@
-*.c linguist-language=c
-*.cpp linguist-language=c
-*.h linguist-language=c
-*.i linguist-language=c
-*.s linguist-language=c
-*.o linguist-language=c
-*.m linguist-language=c
+*.c linguist-language=C
