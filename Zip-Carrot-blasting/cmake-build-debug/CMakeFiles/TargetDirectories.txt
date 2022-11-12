@@ -1,0 +1,3 @@
+/home/carrot/Desktop/Zip-Carrot-blasting/cmake-build-debug/CMakeFiles/Zip_Carrot_blasting.dir
+/home/carrot/Desktop/Zip-Carrot-blasting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/carrot/Desktop/Zip-Carrot-blasting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
